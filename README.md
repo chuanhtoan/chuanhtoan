@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [chuanhtoan.github.io](chuanhtoan.github.io)
+- 👨‍💻 All of my projects are available at [https://chuanhtoan.github.io/](https://chuanhtoan.github.io/)
 
 - 📫 How to reach me **chuanhtoan139@gmail.com**
 
