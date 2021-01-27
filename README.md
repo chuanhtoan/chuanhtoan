@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chu Anh Toàn</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://chuanhtoan.github.io/](https://chuanhtoan.github.io/)
 
 - 📫 How to reach me **chuanhtoan139@gmail.com**
+
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
