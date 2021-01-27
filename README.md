@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chu Anh Toàn</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A Front-End developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://chuanhtoan.github.io/](https://chuanhtoan.github.io/)
 
